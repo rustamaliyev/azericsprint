@@ -1,0 +1,55 @@
+
+/**
+* @template:  Nerve
+
+	Theme Color Style blue.
+
+ 	This Custom Style All Styles In Css.Style File.
+		
+*/
+
+
+
+.icon,
+.section-head h6,
+.butn:hover span,
+.navbar-default .navbar-nav > li .active,
+.hero .intro h6,
+.hero .feat .item:hover .icon,
+.hero .quote span,
+.portfolio .filtering .active,
+.numbers .item .icon,
+.services .item:hover .icon,
+.clients .item h6,
+.team .social-icon .icon:hover,
+.ready p span,
+.price .active .mount h2,
+.price .active .purchase .butn:hover span,
+.blog .item .cont-post .tag,
+.contact .info .item .icon,
+.contact .form input[type="submit"]:hover
+{
+	color: #2683FF !important;
+}
+
+
+.butn,
+.header .owl-dots .owl-dot span:hover,
+.portfolio .filtering span:after,
+.portfolio .filtering span:before,
+.skills .skills-progress span,
+.price .active .purchase .butn,
+.contact .form input[type="submit"]
+{
+	background: #2683FF !important;
+}
+
+.butn,
+.header .owl-dots .owl-dot span:hover,
+.team .social-icon .icon:hover,
+.price .active,
+.price .active .purchase .butn,
+.contact .form input[type="submit"]
+{
+	border-color: #2683FF;
+}
